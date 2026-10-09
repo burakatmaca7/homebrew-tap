@@ -1,6 +1,6 @@
 cask "claude-seat-switcher" do
-  version "0.1.1"
-  sha256 "508c496fb005ee3ae8bd2f2fee923d8c76e87e6bef348907980f685fad970a47"
+  version "0.1.2"
+  sha256 "21f50c34297b71c65c4216078e915fe8ed91e755f585d2029616ac707122581b"
 
   url "https://github.com/burakatmaca7/claude-seat-switcher/releases/download/v#{version}/Claude-Seat-Switcher-v#{version}.zip"
   name "Claude Seat Switcher"
