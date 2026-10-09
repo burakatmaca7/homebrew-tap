@@ -7,7 +7,7 @@ cask "claude-seat-switcher" do
   desc "Menu bar usage and window switching for multiple Claude accounts and Team seats"
   homepage "https://github.com/burakatmaca7/claude-seat-switcher"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Claude Seat Switcher.app"
 
